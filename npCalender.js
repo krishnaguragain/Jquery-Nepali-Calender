@@ -1,5 +1,5 @@
 /*
-Name:Jquery Nepali Calendar1
+Name:Jquery Nepali Calendar
 Author:Padam Shankhadev
 */
 (function($){ 
